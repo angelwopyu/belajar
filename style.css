@@ -1,0 +1,34 @@
+nav{
+    background-color: #f3fa8c;
+    padding: 10px;
+    
+}
+section{
+    padding: 6px;
+    background-color: #f8b0b0;
+    font-family: monospace;
+    color: #301e08;
+    margin-top: 50px ;
+
+
+}
+section:hover{
+    
+    transform: scale(1.05);
+}
+body{
+border: 5px solid #645252;
+background-color: rgb(241, 184, 118);
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav li{
+
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
